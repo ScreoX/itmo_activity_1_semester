@@ -3,51 +3,51 @@
 ## Lab 1
 ### Tasks: <br />
 1. [Помогите Даше решить проблему](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_1.cpp) 
-2. Сдвинь меня, если сможешь
-3. Покупка друзей
-4. Игра Престолов
-5. Зазеркалье
-6. Студенты всегда хотят спать
-7. Компромисс
-8. Достойное решение проблемы
-9. Гений трейдинга
+2. [Сдвинь меня, если сможешь](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_2.cpp)
+3. [Покупка друзей](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_3.cpp)
+4. [Игра Престолов](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_4.cpp)
+5. [Зазеркалье](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_5.cpp)
+6. [Студенты всегда хотят спать](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_6.cpp)
+7. [Компромисс](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_7.cpp)
+8. [Достойное решение проблемы](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_8.cpp)
+9. [Гений трейдинга](https://github.com/Screo-IS/itmo_activity/blob/main/Lab1/task_9.cpp)
 
 ## Lab 2 (Sort)
 ### Tasks: <br />
-1. Дедовы тапки
-2. Паттинсон
-3. Любовь жестока
-4. Анти-QuickSort
-5. Рейтинг
-6. Нейроночка
-7. Непрерывное техническое образование
-8. Грязные игры
-9. МММ
+1. [Дедовы тапки](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_1.cpp)
+2. [Паттинсон](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_2.cpp)
+3. [Любовь жестока](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_3.cpp)
+4. [Анти-QuickSort](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_4.cpp)
+5. [Рейтинг](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_5.cpp)
+6. [Нейроночка](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_6.cpp)
+7. [Непрерывное техническое образование](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_7.cpp)
+8. [Грязные игры](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_8.cpp)
+9. [МММ](https://github.com/Screo-IS/itmo_activity/blob/main/Lab2/task_9.cpp)
 
 ## Lab 3 (Stack)
 ### Tasks: <br />
-1. Рейв и Тектоник 
-2. Юность в сапогах
-3. т.о.ч.к.а
-4. Сокровища древних пирамид
-5. Менделеев из параллельной реальности
-6. Делу время - потехе час!
-7. Спесение земель Русских
-8. Остаться в живых
-9. Давай поженимся
-10. Андрюша
-11. Скрепышовая многоножка (заяц и черепаха)
+1. [Рейв и Тектоник](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_1.cpp) 
+2. [Юность в сапогах](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_2.cpp)
+3. [т.о.ч.к.а](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_3.cpp)
+4. [Сокровища древних пирамид](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_4.cpp)
+5. [Менделеев из параллельной реальности](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_5.cpp)
+6. [Делу время - потехе час!](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_6.cpp)
+7. [Спасение земель Русских](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_7.cpp)
+8. [Остаться в живых](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_8.cpp)
+9. [Давай поженимся](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_9.cpp)
+10. [Андрюша](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_10.cpp)
+11. [Скрепышовая многоножка (заяц и черепаха)](https://github.com/Screo-IS/itmo_activity/blob/main/Lab3/task_11.cpp)
 
 ## Lab 4 (Bin Heap)
 ### Tasks: <br />
-1. Пирамида ли?
-2. Реализуйте приоритетную очередь
-3. Шаверма патруль
-4. Я покорю всю Россию
-5. Величайший кроссовер
-6. Забытая советская закалка
-7. Фибоначчиева куча
-8. Длинная арифметика
+1. [Пирамида ли?](https://github.com/Screo-IS/itmo_activity/blob/main/Lab4/task_1.cpp)
+2. [Реализуйте приоритетную очередь](https://github.com/Screo-IS/itmo_activity/blob/main/Lab4/task_2.cpp)
+3. [Шаверма патруль](https://github.com/Screo-IS/itmo_activity/blob/main/Lab4/task_3.cpp)
+4. [Я покорю всю Россию](https://github.com/Screo-IS/itmo_activity/blob/main/Lab4/task_4.cpp)
+5. [Величайший кроссовер](https://github.com/Screo-IS/itmo_activity/blob/main/Lab4/task_5.cpp)
+6. [Забытая советская закалка](https://github.com/Screo-IS/itmo_activity/blob/main/Lab4/task_6.cpp)
+7. [Фибоначчиева куча](https://github.com/Screo-IS/itmo_activity/blob/main/Lab4/task_7.cpp)
+8. [Длинная арифметика](https://github.com/Screo-IS/itmo_activity/blob/main/Lab4/task_8.cpp)
 
 ## Lab 5 (Bin Tree/ Bin Search Tree)
 ### Tasks: <br />
@@ -62,11 +62,11 @@
 
 ## Lab 6 (AVL Tree)
 ### Tasks: <br />
-1. Проверка сбалансированности
-2. Делаю я левый поворот
-3. Вставка в АВЛ-дерево
-4. Очистка телефона
-5. Три друга 2: возвращение
-6. Детектив
+1. [Проверка сбалансированности](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_1.cpp)
+2. [Делаю я левый поворот](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_2.cpp)
+3. [Вставка в АВЛ-дерево](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_3.cpp)
+4. [Очистка телефона](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_4.cpp)
+5. [Три друга 2: возвращение](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_5.cpp)
+6. [Детектив](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_6.cpp)
 
 

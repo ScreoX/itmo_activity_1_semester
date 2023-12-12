@@ -62,11 +62,11 @@
 
 ## Lab 6 (AVL Tree)
 ### Tasks: <br />
-1. [Проверка сбалансированности](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_1.cpp)
-2. [Делаю я левый поворот](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_2.cpp)
-3. [Вставка в АВЛ-дерево](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_3.cpp)
-4. [Очистка телефона](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_4.cpp)
-5. [Три друга 2: возвращение](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_5.cpp)
-6. [Детектив](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6/task_6.cpp)
+1. [Проверка сбалансированности](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_1.cpp)
+2. [Делаю я левый поворот](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_2.cpp)
+3. [Вставка в АВЛ-дерево](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_3.cpp)
+4. [Очистка телефона](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_4.cpp)
+5. [Три друга 2: возвращение](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_5.cpp)
+6. [Детектив](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_6.cpp)
 
 

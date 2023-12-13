@@ -1,4 +1,4 @@
-# Алгоритмы и структуры данных (1 семестр)
+# Алгоритмы и структуры данных
 
 ## Lab 1
 ### Tasks: <br />
@@ -69,7 +69,7 @@
 5. [Три друга 2: возвращение](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_5.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab6_task5.jpg)
 6. [Детектив](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_6.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab6_task6.jpg)
 
-# Основы программирования (1 семестр)
+# Основы программирования
 - [Labs 1 - 12](https://github.com/Screo-IS/itmo_activity/blob/main/Basics%20of%20programming/c/main.c)
 - [Lab 13 (mp3)]
 - [Lab 14 (bmp, игра в жизнь)]

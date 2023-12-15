@@ -51,14 +51,14 @@
 
 ## Lab 5 (Bin Tree/ Bin Search Tree)
 ### Tasks: <br />
-1. Ёлки-палки 2.0 [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task1.jpg)
-2. Предки - наше всё [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task2.jpg)
-3. И здесь К-ый максимум... [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task3.jpg)
-4. Ёлки-палки [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task4.jpg)
-5. Три друга [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task5.jpg)
-6. Подельник [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task6.jpg)
-7. Всё давай. Я очень занятой. [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task7.jpg)
-8. Может ты скажешь ей, что ты не Леонтий? [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task8.jpg)
+1. [Ёлки-палки 2.0](https://github.com/Screo-IS/itmo_activity/blob/main/Lab5/task_1.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task1.jpg)
+2. [Предки - наше всё](https://github.com/Screo-IS/itmo_activity/blob/main/Lab5/task_2.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task2.jpg)
+3. [И здесь К-ый максимум...](https://github.com/Screo-IS/itmo_activity/blob/main/Lab5/task_3.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task3.jpg)
+4. [Ёлки-палки](https://github.com/Screo-IS/itmo_activity/blob/main/Lab5/task_4.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task4.jpg)
+5. [Три друга](https://github.com/Screo-IS/itmo_activity/blob/main/Lab5/task_5.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task5.jpg)
+6. [Подельник](https://github.com/Screo-IS/itmo_activity/blob/main/Lab5/task_6.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task6.jpg)
+7. [Всё давай. Я очень занятой.](https://github.com/Screo-IS/itmo_activity/blob/main/Lab5/task_7.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task7.jpg)
+8. [Может ты скажешь ей, что ты не Леонтий?](https://github.com/Screo-IS/itmo_activity/blob/main/Lab5/task_8.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab5_task8.jpg)
 
 ## Lab 6 (AVL Tree)
 ### Tasks: <br />

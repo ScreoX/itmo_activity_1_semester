@@ -70,9 +70,9 @@
 6. [Детектив](https://github.com/Screo-IS/itmo_activity/blob/main/Lab6_AVL/task_6.cpp) [(условие)](https://github.com/Screo-IS/itmo_activity/blob/main/Tasks/Lab6_task6.jpg)
 
 # Основы программирования
-- [Labs 1 - 12](https://github.com/Screo-IS/itmo_activity/blob/main/Basics%20of%20programming/c/main.c)
-- [Lab 13 (mp3)]
-- [Lab 14 (bmp, игра в жизнь)]
-- [Lab 15 (архиватор)]
+- [Labs 1 - 12](https://github.com/Screo-IS/itmo_activity/blob/main/Basics%20of%20programming/c/main.c) 
+- [Lab 13 (mp3, метаинформация)](https://github.com/Screo-IS/itmo_activity_1_semester/blob/main/Basics%20of%20programming/c/lab_13_op/main.c) [(условие)](https://github.com/Screo-IS/itmo_activity_1_semester/blob/main/Tasks/Lab13_Prog_basics.jpg)
+- [Lab 14 (bmp, игра в жизнь)](https://github.com/Screo-IS/itmo_activity_1_semester/blob/main/Basics%20of%20programming/c/finalgame/main.c) [(условие)](https://github.com/Screo-IS/itmo_activity_1_semester/blob/main/Tasks/Lab14_Prog_basics.jpg)
+- [Lab 15 (arc, архиватор)](https://github.com/Screo-IS/itmo_activity_1_semester/blob/main/Basics%20of%20programming/c/archiver/main.c) [(условие)](https://github.com/Screo-IS/itmo_activity_1_semester/blob/main/Tasks/Lab15_Prog_basics.jpg)
 
 

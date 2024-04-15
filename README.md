@@ -2,7 +2,7 @@
 
 ## Lab 1
 ### Tasks: <br />
-1. [Помогите Даше решить проблему](https://github.com/ScreoX/itmo_activity/blob/main/Lab1/task_1.cpp) [(условие)](https://github.com/ScreoX/itmo_activity/blob/main/Tasks/Lab1_task1.jpg)
+1. [Помогите Даше решить проблему](https://github.com/ScreoX/itmo_activity_1_semester/blob/main/Lab1/task_1.cpp) [(условие)](https://github.com/ScreoX/itmo_activity/blob/main/Tasks/Lab1_task1.jpg)
 2. [Сдвинь меня, если сможешь](https://github.com/ScreoX/itmo_activity/blob/main/Lab1/task_2.cpp) [(условие)](https://github.com/ScreoX/itmo_activity/blob/main/Tasks/Lab1_task2.jpg)
 3. [Покупка друзей](https://github.com/ScreoX/itmo_activity/blob/main/Lab1/task_3.cpp) [(условие)](https://github.com/ScreoX/itmo_activity/blob/main/Tasks/Lab1_task3.jpg)
 4. [Игра Престолов](https://github.com/ScreoX/itmo_activity/blob/main/Lab1/task_4.cpp) [(условие)](https://github.com/ScreoX/itmo_activity/blob/main/Tasks/Lab1_task4.jpg)
